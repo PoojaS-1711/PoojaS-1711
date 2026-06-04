@@ -1,136 +1,93 @@
-<div align="left">
-  <img height="300" src="https://i.ibb.co/rRq0wqLb/1212132.png"  />
+<!-- ===================== HEADER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Pooja%20S&fontSize=80&fontColor=ffffff"/>
 </div>
 
-###
-
-<h3>who loves programming</h3>
-
-- 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
-
-- 🌱 I'm currently learning **Next.js**
-
-- 👨‍💻 All of my projects are available at [https://aoudumber.netlify.app](https://aoudumber.netlify.app)
-
-- 💬 Ask me about **react, next.js, node.js**
-
-- 📫 How to reach me **aoudumber69@gmail.com**
-
-<h3>Languages and Tools:</h3>
-
-
-
-###
-
-<br clear="both">
-
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+<!-- ===================== TYPING ===================== -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FFB6C1&center=true&vCenter=true&width=750&lines=AI+%2F+Agents+Track+Contributor;React+%26+Node.js+Developer;Open+Source+Enthusiast;Building+Things+That+Matter+%F0%9F%9A%80"/>
 </div>
 
-###
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=PoojaS-1711&color=ff69b4&style=flat"/>
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+<img align="right" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+
+- 🎓 **Computer Science Engineering** student
+- 🤖 Passionate about **AI, Cybersecurity & Web Development**
+- ⚡ Contributing on the **AI / Agents Track** with GSSoC '26
+- 🌐 Building with **React, Node.js, FastAPI & modern web tech**
+- 🔬 Exploring **Data Science, Deep Learning & Emerging Tech**
+- 🌱 Constant learner & open-source contributor
+
+---
+
+## 🧠 Tech Stack
+
+**Languages**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,html,java,js,r,python,powershell,ts&theme=light"/>
+</div>
+
+**Frameworks & Tools**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,nestjs,vite,anaconda,git,figma,mysql&theme=light"/>
+</div>
+
+**AI / Data Science**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light"/>
+</div>
+
+<div align="center">
+
+![Keras](https://img.shields.io/badge/Keras-ff69b4?style=flat-square&logo=keras&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffb6c1?style=flat-square&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-ffc0cb?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-ff9a9e?style=flat-square&logo=pandas&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-ffb6c1?style=flat-square&logo=plotly&logoColor=white)
+![SciPy](https://img.shields.io/badge/SciPy-ffc0cb?style=flat-square&logo=scipy&logoColor=white)
+
+</div>
+
+**Design & Other Tools**
+<div align="center">
+
+![Adobe](https://img.shields.io/badge/Adobe-ff69b4?style=flat-square&logo=adobe&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-ffb6c1?style=flat-square&logo=canva&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-ffc0cb?style=flat-square&logo=web3dotjs&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-ff9a9e?style=flat-square&logo=npm&logoColor=white)
+![Nodemon](https://img.shields.io/badge/Nodemon-ffb6c1?style=flat-square&logo=nodemon&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-ffc0cb?style=flat-square&logo=powershell&logoColor=white)
+
+</div>
+
+---
 
 
+## 🔥 GitHub Activity
 
-  <!-- for beauty -->
-  <div>&nbsp;</div>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaS-1711&bg_color=fff0f5&color=ff69b4&line=ffb6c1&point=ff69b4&area=true&area_color=ffb6c1"/>
+</div>
 
-  <!-- profile logo -->
-  <div style="background-color:black;color:white;padding:40px">
-    <a href="https://www.instagram.com/aoudumbersbade/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
-    <a href="https://twitter.com/aoudumberbade"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
-    <a href="https://www.youtube.com/@toxicprogrammer69"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
-    <a href="https://aoudumbar.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
-    <!-- visitor -->
-    <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
-    <!-- wakatime -->    
-    <a href="https://wakatime.com/@aoudumberbade"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
+---
 
+## 🌐 Connect With Me
 
-  <!-- Snake Code Contribution Map -->
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-  </picture>
+<div align="center">
 
-#  🙋 Hello
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_S-ff69b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-swaminathan-6aa2a3333/)
+[![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-ffb6c1?style=flat-square)](https://gssoc.girlscript.tech/)
 
-<table>
-  
-<tr><td>
+</div>
 
-### 🤺 About Me
-
-<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
-
-<p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
-<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
-<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
-</td></tr>
-
-<tr><td>
-
-### 🏢 Work Experience
-
-<img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
-
-- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2024
-  - Position: Full Stack Developer
-  - Responsibilities: development and maintenance
-  - TechStack: HTML, CSS, JS, PHP, MySQL
-
-<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
-
-- [My Personal Portfolio](https://aoudumbar.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
-  - Position: Mern Developer
-  - Responsibilities: Various tasks
-  - Techstack: MERN
-
-<img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
-
-- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
-  - Position: Website Developer
-  - Responsibilities: Creating a fully responsive website with backend and frontend
-  - Techstack: HTML, CSS, JS, PHP, MYSQL
-
-
-</td></tr>
-
-<tr><td>
-
-</table>
+<!-- ===================== FOOTER ===================== -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ff9a9e&height=120&section=footer"/>
+</div>
