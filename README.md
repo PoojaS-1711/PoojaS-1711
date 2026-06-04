@@ -81,11 +81,11 @@
 
 <!-- Snake Contribution Graph -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoojaS-1711/PoojaS-1711/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoojaS-1711/PoojaS-1711/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/PoojaS-1711/PoojaS-1711/output/github-contribution-grid-snake-dark.svg" />
-</picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
+  </picture>
 
 # 🙋 Hello
 
