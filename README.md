@@ -1,181 +1,136 @@
 <div align="left">
-  <img height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
+  <img height="300" src="https://i.ibb.co/rRq0wqLb/1212132.png"  />
 </div>
 
 ###
 
-<h3>🚀 Tech Explorer who loves building impactful solutions</h3>
+<h3>who loves programming</h3>
 
-- 🔭 I'm currently working on **EcoDrop, AgriBot & AI-powered applications**
-- 🌱 I'm currently learning **Artificial Intelligence, React.js, TypeScript & REST APIs**
-- 👨‍💻 Explore my projects on my GitHub repositories
-- 💬 Ask me about **Python, Cybersecurity, AI, Data Science, React & Web Development**
-- 🏆 Contributor in **GSSoC 2026 (AI / Agents Track)**
-- 📫 Reach me via **LinkedIn or GitHub**
+- 🔭 I'm currently working on [aoudumber.netlify.app](https://aoudumber.netlify.app)
 
-<h3>🛠 Languages and Tools:</h3>
+- 🌱 I'm currently learning **Next.js**
+
+- 👨‍💻 All of my projects are available at [https://aoudumber.netlify.app](https://aoudumber.netlify.app)
+
+- 💬 Ask me about **react, next.js, node.js**
+
+- 📫 How to reach me **aoudumber69@gmail.com**
+
+<h3>Languages and Tools:</h3>
+
+
 
 ###
 
 <br clear="both">
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="30" alt="apache logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=discord" height="30" alt="discord logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
 </div>
 
 ###
 
-<div>&nbsp;</div>
 
-<div style="background-color:black;color:white;padding:40px">
 
-  <a href="https://www.linkedin.com/in/pooja-swaminathan-6aa2a3333/">
-    <img src="https://img.shields.io/badge/LinkedIn-Pooja%20Swaminathan-blue" />
-  </a>
-  &emsp;
+  <!-- for beauty -->
+  <div>&nbsp;</div>
 
-  <a href="https://gssoc.girlscript.tech/">
-    <img src="https://img.shields.io/badge/GSSoC-2026-ff69b4" />
-  </a>
-  &emsp;
+  <!-- profile logo -->
+  <div style="background-color:black;color:white;padding:40px">
+    <a href="https://www.instagram.com/aoudumbersbade/"><img src="https://img.shields.io/badge/Instagram-Instagram-ee2a7b" /></a>&emsp;
+    <a href="https://twitter.com/aoudumberbade"><img src="https://img.shields.io/badge/Twitter-Twitter-blue" /></a>&emsp;
+    <a href="https://www.youtube.com/@toxicprogrammer69"><img src="https://img.shields.io/badge/YouTube-YouTube-c32136" /></a>&emsp;
+    <a href="https://aoudumbar.netlify.app/"><img src="https://img.shields.io/website?url=https%3A%2F%2Faoudumbar.netlify.app%2F" /></a>&emsp;
+    <!-- visitor -->
+    <img src="https://komarev.com/ghpvc/?username=Aoudumber-Bade&label=Views&color=orange&style=flat" alt="Visitor Count" />&emsp;
+    <!-- wakatime -->    
+    <a href="https://wakatime.com/@aoudumberbade"><img src="https://wakatime.com/badge/user/018ea536-beca-4143-a136-4ca1c4ff3898.svg" /></a>
 
-  <img src="https://komarev.com/ghpvc/?username=PoojaS-1711&label=Views&color=ff69b4&style=flat" alt="Visitor Count" />
 
-</div>
-
-<!-- Snake Contribution Graph -->
-
+  <!-- Snake Code Contribution Map -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake.svg" />
     <img alt="github-snake" src="https://cdn.jsdelivr.net/gh/Aoudumber-Bade/Aoudumber-Bade/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
   </picture>
 
-# 🙋 Hello
+#  🙋 Hello
 
 <table>
-
+  
 <tr><td>
 
-### 👩‍💻 About Me
+### 🤺 About Me
 
-<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
+<img align="right" width="88" src="https://i.ibb.co/rRWCTq1m/githubimg.png" />
 
-<p>&emsp;&emsp;Hi, I am <b>Pooja Swaminathan</b>, a Computer Science Engineering student passionate about technology, innovation, and problem-solving.</p>
-
-<p>&emsp;&emsp;My interests include Artificial Intelligence, Cybersecurity, Data Science, Web Development, IoT, and Emerging Technologies.</p>
-
-<p>&emsp;&emsp;I enjoy building projects that solve real-world problems, contributing to open source, participating in hackathons, and continuously expanding my technical knowledge.</p>
-
-<p>&emsp;&emsp;Currently, I am learning AI, React.js, TypeScript, REST APIs, and modern software development practices while strengthening my analytical and development skills.</p>
-
+<p>&emsp;&emsp;Hi, I am Aoudumber Bade. I love programming, photography, reading, and traveling.</p>
+<p>&emsp;&emsp;I am passionate about computer science and IT, aiming to become an excellent developer.</p>
+<p>&emsp;&emsp;We are making the world a better place by constructing elegant hierarchies for maximum code reuse and extensibility.</p>
 </td></tr>
 
 <tr><td>
 
-### 🌟 Open Source Journey
+### 🏢 Work Experience
 
-<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
+<img align="right" width="88" src="https://i.ibb.co/CpvpVfGP/shot-Easy-screencapture-electronshub-lovestoblog-com.png" />
 
-- **GirlScript Summer of Code 2026** 📌
-  - AI / Agents Track Contributor
-  - Collaborating on open-source projects
-  - Working with developers from diverse communities
+- [ElectronsHUB - College Project.](https://electronshub.lovestoblog.com/)  &nbsp;&nbsp; &nbsp; &nbsp;    📌 2024
+  - Position: Full Stack Developer
+  - Responsibilities: development and maintenance
+  - TechStack: HTML, CSS, JS, PHP, MySQL
 
-- **Hacktoberfest Participant**
-  - Open-source contributions
-  - Git & GitHub collaboration workflows
+<img align="right" width="88" src="https://i.ibb.co/fd8kVxQz/2shoteasy.png" />
 
-</td></tr>
+- [My Personal Portfolio](https://aoudumbar.netlify.app/)    &nbsp;&nbsp; &nbsp; &nbsp;     📌 2025
+  - Position: Mern Developer
+  - Responsibilities: Various tasks
+  - Techstack: MERN
 
-<tr><td>
+<img align="right" width="88" src="https://i.ibb.co/fY4ryhZW/newsymo.png" />
 
-### 🚀 Featured Projects
+- [Freelancing Project - Symo Dance Academy](https://www.symo.wauze.com/)    &nbsp;&nbsp; &nbsp; &nbsp;    📌 2023
+  - Position: Website Developer
+  - Responsibilities: Creating a fully responsive website with backend and frontend
+  - Techstack: HTML, CSS, JS, PHP, MYSQL
 
-<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
-
-#### 🌿 Leaf Disease Prediction
-- AI-powered crop disease detection system
-- Tech Stack: Python, TensorFlow, Streamlit
-
-#### 🤖 AgriBot
-- Offline multilingual voice assistant for farmers
-- Crop recommendations, pest guidance, and government schemes
-- Tech Stack: Python, NLP, Speech Recognition
-
-#### ♻️ EcoDrop
-- Smart garbage pickup and waste segregation platform
-- Tech Stack: React, Firebase
-
-#### 📝 Blog Website
-- Authentication, blog publishing, categories, and comments
-- Tech Stack: Python, Streamlit, SQLite
 
 </td></tr>
 
 <tr><td>
-
-### 🏆 Certifications
-
-<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/3135/3135789.png" />
-
-- IBM Cybersecurity Fundamentals
-- IBM Data Science
-- Oracle Cloud Certifications
-- ISRO Programs
-- Cisco Networking Academy
-- Infosys Springboard Certifications
-- TCS iON Career Edge
-
-</td></tr>
-
-<tr><td>
-
-### 💻 Coding Profiles
-
-<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
-
-- LeetCode
-- CodeChef
-- HackerEarth
-- GitHub
-
-</td></tr>
 
 </table>
