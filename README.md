@@ -1,93 +1,181 @@
-<!-- ===================== HEADER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff9a9e,100:fad0c4&height=200&section=header&text=Pooja%20S&fontSize=80&fontColor=ffffff"/>
+<div align="left">
+  <img height="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" />
 </div>
 
-<!-- ===================== TYPING ===================== -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1500&color=FFB6C1&center=true&vCenter=true&width=750&lines=AI+%2F+Agents+Track+Contributor;React+%26+Node.js+Developer;Open+Source+Enthusiast;Building+Things+That+Matter+%F0%9F%9A%80"/>
+###
+
+<h3>🚀 Tech Explorer who loves building impactful solutions</h3>
+
+- 🔭 I'm currently working on **EcoDrop, AgriBot & AI-powered applications**
+- 🌱 I'm currently learning **Artificial Intelligence, React.js, TypeScript & REST APIs**
+- 👨‍💻 Explore my projects on my GitHub repositories
+- 💬 Ask me about **Python, Cybersecurity, AI, Data Science, React & Web Development**
+- 🏆 Contributor in **GSSoC 2026 (AI / Agents Track)**
+- 📫 Reach me via **LinkedIn or GitHub**
+
+<h3>🛠 Languages and Tools:</h3>
+
+###
+
+<br clear="both">
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="30" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="30" alt="cplusplus logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=firebase" height="30" alt="firebase logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="30" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="30" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=figma" height="30" alt="figma logo" />
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=PoojaS-1711&color=ff69b4&style=flat"/>
-</div>
+###
 
----
+<div>&nbsp;</div>
 
-## 👩‍💻 About Me
+<div style="background-color:black;color:white;padding:40px">
 
-<img align="right" width="360" src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif"/>
+  <a href="https://www.linkedin.com/in/pooja-swaminathan-6aa2a3333/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pooja%20Swaminathan-blue" />
+  </a>
+  &emsp;
 
-- 🎓 **Computer Science Engineering** student
-- 🤖 Passionate about **AI, Cybersecurity & Web Development**
-- ⚡ Contributing on the **AI / Agents Track** with GSSoC '26
-- 🌐 Building with **React, Node.js, FastAPI & modern web tech**
-- 🔬 Exploring **Data Science, Deep Learning & Emerging Tech**
-- 🌱 Constant learner & open-source contributor
+  <a href="https://gssoc.girlscript.tech/">
+    <img src="https://img.shields.io/badge/GSSoC-2026-ff69b4" />
+  </a>
+  &emsp;
 
----
-
-## 🧠 Tech Stack
-
-**Languages**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,html,java,js,r,python,powershell,ts&theme=light"/>
-</div>
-
-**Frameworks & Tools**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,fastapi,nestjs,vite,anaconda,git,figma,mysql&theme=light"/>
-</div>
-
-**AI / Data Science**
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light"/>
-</div>
-
-<div align="center">
-
-![Keras](https://img.shields.io/badge/Keras-ff69b4?style=flat-square&logo=keras&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-ffb6c1?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-ffc0cb?style=flat-square&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-ff9a9e?style=flat-square&logo=pandas&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-ffb6c1?style=flat-square&logo=plotly&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-ffc0cb?style=flat-square&logo=scipy&logoColor=white)
-
-</div>
-
-**Design & Other Tools**
-<div align="center">
-
-![Adobe](https://img.shields.io/badge/Adobe-ff69b4?style=flat-square&logo=adobe&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-ffb6c1?style=flat-square&logo=canva&logoColor=white)
-![Web3.js](https://img.shields.io/badge/Web3.js-ffc0cb?style=flat-square&logo=web3dotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-ff9a9e?style=flat-square&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-ffb6c1?style=flat-square&logo=nodemon&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-ffc0cb?style=flat-square&logo=powershell&logoColor=white)
-
-</div>
-
----
-
-
-## 🔥 GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PoojaS-1711&bg_color=fff0f5&color=ff69b4&line=ffb6c1&point=ff69b4&area=true&area_color=ffb6c1"/>
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_S-ff69b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-swaminathan-6aa2a3333/)
-[![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-ffb6c1?style=flat-square)](https://gssoc.girlscript.tech/)
+  <img src="https://komarev.com/ghpvc/?username=PoojaS-1711&label=Views&color=ff69b4&style=flat" alt="Visitor Count" />
 
 </div>
 
-<!-- ===================== FOOTER ===================== -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:fad0c4,100:ff9a9e&height=120&section=footer"/>
-</div>
+<!-- Snake Contribution Graph -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PoojaS-1711/PoojaS-1711/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PoojaS-1711/PoojaS-1711/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PoojaS-1711/PoojaS-1711/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+
+# 🙋 Hello
+
+<table>
+
+<tr><td>
+
+### 👩‍💻 About Me
+
+<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" />
+
+<p>&emsp;&emsp;Hi, I am <b>Pooja Swaminathan</b>, a Computer Science Engineering student passionate about technology, innovation, and problem-solving.</p>
+
+<p>&emsp;&emsp;My interests include Artificial Intelligence, Cybersecurity, Data Science, Web Development, IoT, and Emerging Technologies.</p>
+
+<p>&emsp;&emsp;I enjoy building projects that solve real-world problems, contributing to open source, participating in hackathons, and continuously expanding my technical knowledge.</p>
+
+<p>&emsp;&emsp;Currently, I am learning AI, React.js, TypeScript, REST APIs, and modern software development practices while strengthening my analytical and development skills.</p>
+
+</td></tr>
+
+<tr><td>
+
+### 🌟 Open Source Journey
+
+<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/1055/1055687.png" />
+
+- **GirlScript Summer of Code 2026** 📌
+  - AI / Agents Track Contributor
+  - Collaborating on open-source projects
+  - Working with developers from diverse communities
+
+- **Hacktoberfest Participant**
+  - Open-source contributions
+  - Git & GitHub collaboration workflows
+
+</td></tr>
+
+<tr><td>
+
+### 🚀 Featured Projects
+
+<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/2103/2103633.png" />
+
+#### 🌿 Leaf Disease Prediction
+- AI-powered crop disease detection system
+- Tech Stack: Python, TensorFlow, Streamlit
+
+#### 🤖 AgriBot
+- Offline multilingual voice assistant for farmers
+- Crop recommendations, pest guidance, and government schemes
+- Tech Stack: Python, NLP, Speech Recognition
+
+#### ♻️ EcoDrop
+- Smart garbage pickup and waste segregation platform
+- Tech Stack: React, Firebase
+
+#### 📝 Blog Website
+- Authentication, blog publishing, categories, and comments
+- Tech Stack: Python, Streamlit, SQLite
+
+</td></tr>
+
+<tr><td>
+
+### 🏆 Certifications
+
+<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/3135/3135789.png" />
+
+- IBM Cybersecurity Fundamentals
+- IBM Data Science
+- Oracle Cloud Certifications
+- ISRO Programs
+- Cisco Networking Academy
+- Infosys Springboard Certifications
+- TCS iON Career Edge
+
+</td></tr>
+
+<tr><td>
+
+### 💻 Coding Profiles
+
+<img align="right" width="88" src="https://cdn-icons-png.flaticon.com/512/2721/2721297.png" />
+
+- LeetCode
+- CodeChef
+- HackerEarth
+- GitHub
+
+</td></tr>
+
+</table>
