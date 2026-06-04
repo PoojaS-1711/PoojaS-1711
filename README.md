@@ -69,18 +69,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PoojaS-1711&show_icons=true&bg_color=fff0f5&border_color=ffb6c1&title_color=ff69b4&text_color=555555&icon_color=ff9a9e"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaS-1711&layout=compact&bg_color=fff0f5&border_color=ffb6c1&title_color=ff69b4&text_color=555555"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=PoojaS-1711&background=fff0f5&border=ffb6c1&ring=ff69b4&fire=ff9a9e&currStreakLabel=ff69b4&sideNums=ff69b4&sideLabels=ffb6c1"/>
-</div>
-
----
 
 ## 🔥 GitHub Activity
 
@@ -94,7 +82,7 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_S-ff69b4?style=flat-square&logo=linkedin&logoColor=white)](www.linkedin.com/in/pooja-swaminathan-6aa2a3333)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pooja_S-ff69b4?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pooja-swaminathan-6aa2a3333/)
 [![GSSoC 2026](https://img.shields.io/badge/GSSoC-2026-ffb6c1?style=flat-square)](https://gssoc.girlscript.tech/)
 
 </div>
