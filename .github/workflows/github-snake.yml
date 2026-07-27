@@ -1,5 +1,5 @@
 name: Generate Contribution Snake
-
+ 
 on:
   schedule:
     # Runs once a day at 00:00 UTC
@@ -8,7 +8,7 @@ on:
   push:
     branches:
       - main
-
+ 
 jobs:
   generate-snake:
     permissions:
@@ -24,13 +24,16 @@ jobs:
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
+ 
+      - name: Fix dist ownership/permissions
+        run: sudo chown -R "$(id -u):$(id -g)" dist && chmod -R u+rwX dist
+ 
       - name: Recolor snake to pink/purple palette
         run: |
           for f in dist/github-contribution-grid-snake.svg dist/github-contribution-grid-snake-dark.svg; do
             sed -i 's/#ebedf0/#1c0f2e/g; s/#9be9a8/#3a1f52/g; s/#40c463/#9b5cff/g; s/#30a14e/#c93cc4/g; s/#216e39/#ff4fa3/g' "$f"
           done
-
+ 
       - name: Push snake to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
@@ -38,3 +41,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+ 
