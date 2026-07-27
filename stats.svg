@@ -1,0 +1,72 @@
+<svg viewBox="0 0 480 260" width="480" height="260" xmlns="http://www.w3.org/2000/svg" font-family="'Segoe UI',Arial,sans-serif">
+  <defs>
+    <clipPath id="statsOuter"><rect width="480" height="260" rx="18"/></clipPath>
+    <linearGradient id="ringGrad" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#ff4fa3"/>
+      <stop offset="100%" stop-color="#9b5cff"/>
+    </linearGradient>
+  </defs>
+  <g clip-path="url(#statsOuter)">
+    <rect width="480" height="260" fill="#170a26"/>
+    <rect x="1" y="1" width="478" height="258" rx="17" fill="none" stroke="#9b5cff" stroke-opacity="0.35"/>
+    <text x="24" y="34" font-size="16" font-weight="800" fill="#f6ecff">POOJA'S GITHUB STATS</text>
+    <text x="24" y="52" font-size="10.5" fill="#c6a8e8">@PoojaS-1711 &#8226; illustrative activity score</text>
+
+    <g transform="translate(90,150)">
+      <circle r="54" fill="none" stroke="rgba(255,255,255,0.04)" stroke-width="10"/>
+      <circle r="54" fill="none" stroke="url(#ringGrad)" stroke-width="10" stroke-linecap="round"
+        transform="rotate(-90)"
+        stroke-dasharray="0 339">
+        <animate attributeName="stroke-dasharray" from="0 339" to="210 339" begin="0.6s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      </circle>
+      <text x="0" y="-2" text-anchor="middle" font-size="24" font-weight="800" fill="#f6ecff" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+        B+
+      </text>
+      <text x="0" y="16" text-anchor="middle" font-size="9" fill="#c6a8e8" opacity="0">
+        <animate attributeName="opacity" from="0" to="1" begin="1.6s" dur="0.4s" fill="freeze"/>
+        RISING DEV
+      </text>
+    </g>
+
+    <g transform="translate(210,66)">
+      <g transform="translate(-260,0)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="0.90s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-260 0" to="0 0" begin="0.90s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      <text x="0" y="14" font-size="13" fill="#f6ecff" font-weight="600">Public Repos</text>
+      <text x="230" y="14" text-anchor="end" font-size="13" fill="#ff4fa3" font-weight="800">32</text>
+      <rect x="0" y="22" width="230" height="6" rx="3" fill="rgba(255,255,255,0.04)"/>
+      <rect x="0" y="22" width="0" height="6" rx="3" fill="#9b5cff">
+        <animate attributeName="width" from="0" to="184" begin="1.05s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      </rect>
+    </g><g transform="translate(-260,46)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.12s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-260 46" to="0 46" begin="1.12s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      <text x="0" y="14" font-size="13" fill="#f6ecff" font-weight="600">Total Stars</text>
+      <text x="230" y="14" text-anchor="end" font-size="13" fill="#ff4fa3" font-weight="800">1</text>
+      <rect x="0" y="22" width="230" height="6" rx="3" fill="rgba(255,255,255,0.04)"/>
+      <rect x="0" y="22" width="0" height="6" rx="3" fill="#9b5cff">
+        <animate attributeName="width" from="0" to="46" begin="1.27s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      </rect>
+    </g><g transform="translate(-260,92)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.34s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-260 92" to="0 92" begin="1.34s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      <text x="0" y="14" font-size="13" fill="#f6ecff" font-weight="600">Following</text>
+      <text x="230" y="14" text-anchor="end" font-size="13" fill="#ff4fa3" font-weight="800">1</text>
+      <rect x="0" y="22" width="230" height="6" rx="3" fill="rgba(255,255,255,0.04)"/>
+      <rect x="0" y="22" width="0" height="6" rx="3" fill="#9b5cff">
+        <animate attributeName="width" from="0" to="46" begin="1.49s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      </rect>
+    </g><g transform="translate(-260,138)" opacity="0">
+      <animate attributeName="opacity" from="0" to="1" begin="1.56s" dur="0.5s" fill="freeze"/>
+      <animateTransform attributeName="transform" type="translate" from="-260 138" to="0 138" begin="1.56s" dur="0.55s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      <text x="0" y="14" font-size="13" fill="#f6ecff" font-weight="600">Achievements</text>
+      <text x="230" y="14" text-anchor="end" font-size="13" fill="#ff4fa3" font-weight="800">1</text>
+      <rect x="0" y="22" width="230" height="6" rx="3" fill="rgba(255,255,255,0.04)"/>
+      <rect x="0" y="22" width="0" height="6" rx="3" fill="#9b5cff">
+        <animate attributeName="width" from="0" to="76" begin="1.71s" dur="0.9s" fill="freeze" calcMode="spline" keySplines="0.2 0.7 0.3 1"/>
+      </rect>
+    </g>
+    </g>
+  </g>
+</svg>
